@@ -1,0 +1,23 @@
+{
+  "name": "sol-test-helper",
+  "version": "0.1.0-dev",
+  "description": "Solidity Tests GitHub Action Helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ioedeveloper/sol-test-helper.git"
+  },
+  "keywords": [],
+  "author": "@ioedeveloper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ioedeveloper/sol-test-helper/issues"
+  },
+  "homepage": "https://github.com/ioedeveloper/sol-test-helper#readme",
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  }
+}
